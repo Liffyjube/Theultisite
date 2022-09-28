@@ -1,4 +1,9 @@
-# Theultisite
-This is a cool website 
-<h1> What is up?</h1>
+# real club page
+
+please join the club
+
+# cool club info
+
+this is a club you should join. we do club stuff
+
 
